@@ -1,0 +1,14 @@
+# Ignorer les données
+data/
+submission_baseline.csv
+
+# Ignorer les fichiers temporaires Python
+__pycache__/
+*.pyc
+
+# Ignorer les fichiers système Mac
+.DS_Store
+
+# Ignorer les environnements virtuels (si jamais)
+.venv/
+env/
